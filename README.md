@@ -1,7 +1,5 @@
 # Passport-strava
 
-copied from [Passport-github](https://github.com/bensonnn/passport-github) by [Dan Benson](http://github.com/bensonnn)
-
 [Passport](http://passportjs.org/) strategy for authenticating with [Strava](http://strava.com/)
 using the OAuth 2.0 API.
 
